@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**emreklc28/emreklc28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Emre – a psychologist turned mobile developer.  
 
-Here are some ideas to get you started:
+  🚀 Technologies I Use
+⚛️ React Native
+💻 Java (Android)
+🧱 Android Studio
+📜 JavaScript / TypeScript
+🗃️ SQLite / 🧠 AsyncStorage
+🔧 Git & 🐙 GitHub
+🧪 Node.js (beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🛠 Tools I Work With
+🖥️ VS Code
+📱 Android Studio
+🔍 Postman
+🎨 Figma (for UI/UX design)
+
+
+
+- 💬 Contact
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-emrekilic96-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/emrekilic96/)  
+  📧 emrekilic443@gmail.com  
+
+
+Thanks for stopping by! 🙌
